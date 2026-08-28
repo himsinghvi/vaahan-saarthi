@@ -16,7 +16,6 @@ and `RTO-Vehicle-AI-Product-Plan.md`) into a single, best-of-both experience.
 |------|-------|----------|-------|
 | **Admin** | `admin@vaahansaarthi.com` | `Admin@123` | LLM model configuration only (Settings page). No vehicle data. |
 | **Demo user 1** | `himanshu@example.com` | `demo123` | Full seeded garage — 3 vehicles, documents, challans |
-| **Demo user 2** | `priya@example.com` | `demo123` | Empty garage — ideal for testing a new user |
 
 - **LLM settings** (`/settings`) are visible and editable **only for Admin**.
 - The model the admin selects applies **globally** to all users' AI assistant and agent calls.
