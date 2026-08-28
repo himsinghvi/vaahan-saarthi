@@ -1,0 +1,23 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.local
+*Copy.env*
+*.env.copy
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Cursor / local
+.agent-tools/
